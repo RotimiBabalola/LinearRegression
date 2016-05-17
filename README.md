@@ -1,2 +1,2 @@
 # LinearRegression
-Simple implementation of linear regression using Gradient Descent
+ Simple implementation of linear regression using Gradient Descent
